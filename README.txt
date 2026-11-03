@@ -1,1 +1,1 @@
-Updated Wedding Page. Upload index.html to the root of your GitHub repository and commit the change. The Directions button uses the venue coordinates 17.764072269679506, 83.21886683680155 and omits origin so Google Maps can use each visitor's current device location.
+Updated Wedding Page. Upload index.html to the root of your GitHub repository and commit the change. Wedding venue destination coordinates: 17.764281, 83.219707. The Google Maps directions URL omits origin so each visitor's current device location can be used.
